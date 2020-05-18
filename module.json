@@ -1,0 +1,12 @@
+{
+  "id": "noLoweredSuppressorAndBayonetRange",
+  "name": "No Lowered Suppressor And Bayonet Range",
+  "author": "mrudat",
+  "version": "0.0.1",
+  "released": "2019-05-09",
+  "updated": "2019-05-09",
+  "description": "Removes the range penalties for Suppressors, Muzzle Brakes, Recoil Compensators and Bayonets.",
+  "requires": ["unifiedPatchingFramework"],
+  "moduleLoader": "UPF",
+  "canHotLoad": true
+}
